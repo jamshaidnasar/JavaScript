@@ -1,0 +1,1 @@
+window.confirm("Are you sure that you are good boy!")
